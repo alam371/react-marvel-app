@@ -1,14 +1,14 @@
 .Footer__Component {
-	width: 100%;
-	background: #000;
-	color: #fff;
-	position: fixed;
-	bottom: 0;
-	font-family: 'Lato', sans-serif;
-    height: 35px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 13px;
-    font-weight: 700;
+  font-family: 'Lato', sans-serif;
+  width: 100%;
+  background-color: #000;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 13px;
+  font-weight: 700;
 }
