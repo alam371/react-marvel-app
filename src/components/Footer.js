@@ -2,7 +2,7 @@ import React from 'react';
 
 function Footer(props){
 	return(
-		<footer>{props.message}</footer>
+		<footer className="Footer__Component">{props.message}</footer>
 	);
 };
 
