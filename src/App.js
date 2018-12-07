@@ -11,7 +11,7 @@ class App extends Component {
         title="Marvel Comic Explorer"
         message="Search and explore your favourite Marvel characters!"
       />
-      <Footer message="Data provided by Marvel. © 2014 Marvel"/>
+      <Footer copy="Data provided by Marvel. © 2014 Marvel"/>
       </div>
     );
   }
